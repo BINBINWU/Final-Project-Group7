@@ -24,6 +24,8 @@ Code - All the code used in our project.
 # Data:
 The Fruit-360 data used can be obtained from: https://www.kaggle.com/moltean/fruits
 
+Some additional images used are in this repo under the "Code" section.
+
 # Code:
 The code is executed in this order:
 

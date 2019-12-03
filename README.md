@@ -28,6 +28,10 @@ or here:https://storage.cloud.google.com/fruits-360/fruits.zip?authuser=1
 
 Some additional images used are in this repo under the "Code" section.
 
+The Cells data used can be obtained from: https://data.broadinstitute.org/bbbc/BBBC041/
+
+The individual cells training data can be found here: https://storage.googleapis.com/exam-deep-learning/train.zip
+
 # Code:
 The code is executed in this order:
 

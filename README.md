@@ -20,3 +20,17 @@ Final-Group-Project-Report - Latex report of our project.
 Group-Proposal - Out initial proposal.
 
 Code - All the code used in our project.
+
+# Data:
+The Fruit-360 data used can be obtained from: https://www.kaggle.com/moltean/fruits
+
+# Code:
+The code is executed in this order:
+
+1. Train our model (or use your own) using: Predicting_crop_class.py (for Fruit-360 data)
+
+2. Obtain the cropped images from the image of interest using: Cropping.py
+
+3. Obtain the predicted classes from the cropped images using: Predicting_crop_class.py
+
+4. Map the predictions onto the original images of interest using: Mapping_crop_class.py

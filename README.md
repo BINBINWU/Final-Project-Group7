@@ -13,7 +13,7 @@ boundary identification purposes. Furthermore, there are a few limitations and m
 avenues for further research to make this approach robust.
 
 # Folders:
-## Final-Group-Presentation - PowerPoint slideshow detailing our work.
-## Final-Group-Project-Report - Latex report of our project.
-## Group-Proposal - Out initial proposal.
-## Code - All the code used in our project.
+Final-Group-Presentation - PowerPoint slideshow detailing our work.
+Final-Group-Project-Report - Latex report of our project.
+Group-Proposal - Out initial proposal.
+Code - All the code used in our project.

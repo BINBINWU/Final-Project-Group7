@@ -35,7 +35,7 @@ The individual cells training data can be found here: https://storage.googleapis
 # Code:
 The code is executed in this order:
 
-1. Train our model (or use your own) using: Predicting_crop_class.py (for Fruit-360 data) or 
+1. Train our model (or use your own) using: Predicting_crop_class.py (for Fruit-360 data)
 
 2. Obtain the cropped images from the image of interest using: Parallel_Cropping.py or Cropping.py
 

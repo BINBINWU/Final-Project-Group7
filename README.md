@@ -21,6 +21,10 @@ Group-Proposal - Out initial proposal.
 
 Code - All the code used in our project.
 
+Eason-Charles-individual-project - Individual content of Charles Garrett Eason
+
+Wu-Binbin-individual-project - Individual content of Binbin Wu
+
 # Data:
 The Fruit-360 data used can be obtained from: https://www.kaggle.com/moltean/fruits
 
